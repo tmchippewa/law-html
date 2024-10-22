@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2024-10-22",
-      "codified-date": "2024-08-05",
+      "codified-date": "2024-09-24",
       "platform": {
         "reproducible": "true",
         "version": "2.14.9"
@@ -14,7 +14,7 @@
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "d1fb7a9ff72967b133630dabde8f7bf7a28941cd",
+          "commit": "3c7370ef9082cc83f6063f694b6321cdcea70fe0",
           "name": "tmchippewa/law-xml-codified"
         }
       ]
